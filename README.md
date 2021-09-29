@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...leaning and mastering programming... as well as gaming
 - 🌱 I’m currently learning ...Java and all that relates
 - 💞️ I’m looking to collaborate on ...*INCOGNITO MODE*
-- 📫 How to reach me ...facebook.com/G3tCloned or roimarvin19@gmail.com
+- 📫 How to reach me ... facebook.com/G3tCloned or roimarvin19@gmail.com
 
 <!---
 G3tCloned/G3tCloned is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
