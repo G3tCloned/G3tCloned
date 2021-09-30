@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G3tCloned
+- 👋 Hi, I’m Roi Marvin Ronquillo aka @G3tCloned
 - 👀 I’m interested in ...leaning and mastering programming... as well as gaming
 - 🌱 I’m currently learning ...Java and all that relates
 - 💞️ I’m looking to collaborate on ...*INCOGNITO MODE*
